@@ -31,15 +31,9 @@
 
 
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 👥 Authors <a name="abdallahJumah95"></a>
 
-You can use this to refer and build ur own
-
-
-
-## 👥 Authors <a name="authors"></a>
-
-@sonikak004
+@abdallahJumah95
 
 👤 **Author1**
 
